@@ -2,6 +2,10 @@
 > A talk about how to use D3 within Svelte
 
 
+## The video
+[On the Svelte society Youtube channel](https://www.youtube.com/watch?v=bnd64ZrHC0U&feature=emb_title)
+
+
 ## The slides
 [PDF slides](./slides/svelte_loves_d3.pdf)
 
